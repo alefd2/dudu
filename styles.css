@@ -55,3 +55,7 @@ body {
   width: 200px;
   border-radius: 20px;
 }
+
+.header-img h1 {
+  text-align: center;
+}
